@@ -1,0 +1,8 @@
+name: Economy
+version: '${project.version}'
+main: com.server.economy.Economy
+api-version: 1.19
+depend: [Vault]
+
+commands:
+  test:
